@@ -1,0 +1,22 @@
+{
+  "name": "slate-chai-as-promised-bundle",
+  "authors": [
+    "Jean-François Le Foll <jeff.lefoll@outlook.fr>"
+  ],
+  "description": "Bundled version of the chai plugin chai-as-promised to be usefull in polymer web component tests.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "mocha",
+    "chai",
+    "chai-as-promised"
+  ],
+  "main": "slate-chaiAsPromised-bundle.js",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/JeffLeFoll/slate-chai-as-promised-bundle",
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
