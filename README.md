@@ -1,5 +1,5 @@
 # slate-chai-as-promised-bundle
-Bundled version of the chai plugin *[chai-as-promised](https://github.com/domenic/chai-as-promised)* to be usefull in polymer web component tests.
+Bundled version of the chai plugin *[chai-as-promised](https://github.com/domenic/chai-as-promised)* to be usefull in polymer web component tests.  
 *chai-as-promised* extends Chai with a fluent language for asserting facts about promises.
 
 ## Installation
