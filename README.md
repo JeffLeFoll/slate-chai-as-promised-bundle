@@ -1,6 +1,6 @@
 # slate-chai-as-promised-bundle
 Bundled version of the chai plugin *[chai-as-promised](https://github.com/domenic/chai-as-promised)* to be usefull in polymer web component tests.
-*chai-as-promised*extends Chai with a fluent language for asserting facts about promises.
+*chai-as-promised* extends Chai with a fluent language for asserting facts about promises.
 
 ## Installation
 
@@ -19,7 +19,9 @@ And then recover them via `bower install`.
 ## Usage
 
 Add the foloowing import in you element .html test file:
+
 `<script src="../bower_components/slate-chai-as-promised-bundle/slate-chaiAsPromised-bundle.js"></script>`
+
 We take care of the `chai.use(chaiAsPromised)` so you juste have to import the script.
 
 
